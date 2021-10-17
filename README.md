@@ -26,6 +26,9 @@ The Max temp would be 83 vs min being 53, where the minimum temperature would mo
 
 1. By comparing the June & December temperature, the average temperatures between the two months are similar if we review the average figure. However, the min/max of the temperatures are vastly different when we look at June or December. As December being relatively colder, the minimum temperature would be 53, whereas June would be 64 F.
 
+However, if he wants to run the icecream shop based on the temperature information, there would be no problem. The low/high temperature for the two months would have to be the peak months for the season (summer & winter) and since there are no drastic fluctuation on the temperature, it would still be reasonable to sell the products, ONLYIF the owner would like to open the shop all year based on the temperature data.
+
+
 * Additional Queries
 
 1. In order to draft a more detailed information on the temperature, it would be helpful to see the timeframe on when the min/max temperatures are recorded. The minimum temperature figure is different from June/Dec but we would have to know whether the temperature was measured in the daytime or the nighttime to determine whether the whether fluctuation was due to the sun rise & down. 
